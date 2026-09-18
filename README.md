@@ -1,4 +1,4 @@
-**Nombre:**Nicolas Andres Pasaje Gonzalez - 20261244286
+**Nombre:** Nicolas Andres Pasaje Gonzalez - 20261244286
 
 **Programa Academico:** Tecnologia de Desarrollo de Software
 
