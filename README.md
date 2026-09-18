@@ -7,6 +7,7 @@
 *Ejercicios Realizados*
 
 **Arreglos/Arrays:**
+
 4.b.1. Escribe un programa que lea 5 números por teclado y que los almacene en un array. Rota los elementos de ese array, es decir, el elemento de la posición 0 debe pasar a la posición 1, el de la 1 a la 2, etc. El número que se encuentra en la última posición debe pasar a la posición 0. Finalmente, muestra el contenido del array.
 ![evidencia](evidencias/arrays/EJERCICIO1.png)
 
@@ -80,3 +81,7 @@ MEJORA 1: Al ejercicio anterior, añadirle una opción "5.- Eliminar nota” que
 
 ![evidencia](evidencias/evaluacion/EVALUACIONA.png)
 ![evidencia](evidencias/evaluacion/EVALUACIONB.png)
+
+**Conclusiones**
+
+La verdad me costo mucho realizar estos ejercicios por la confusion y enredo a la hora de crear los arreglos y sus ciclos for, y al tener que pensar bien que tengo que hacer y como voy a hacerlo, pero despues de practicar logre entender unos ejercicios.
